@@ -1,0 +1,31 @@
+{
+  "name": "luke-plop",
+  "version": "0.0.0",
+  "description": "Quickly scaffold work related files",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/ldiebold/luke-plop.git"
+  },
+  "keywords": [
+    "plop",
+    "scaffold"
+  ],
+  "author": "Luke Diebold",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ldiebold/luke-plop/issues"
+  },
+  "homepage": "https://github.com/ldiebold/luke-plop#readme",
+  "dependencies": {
+    "collect.js": "^4.27.3",
+    "dotenv": "^8.2.0",
+    "inquirer-recursive": "0.0.6",
+    "lodash": "^4.17.15",
+    "moment": "^2.26.0",
+    "pluralize": "^8.0.0"
+  }
+}
